@@ -1,0 +1,408 @@
+Model,CWR,CWRabrev,CWR_Full,Cost(original),Cost,Ha(original),Ha
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,3.9,
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,1.5,
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,55,,4.9,
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,55,,2,
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,64.2,,2,
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,73.4,,2,
+BASIC,,V.dekindtiana,VignaUnguiculataDekindtiana,91.7,,2.5,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,0.3,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,0.3,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,0.1,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,0.1,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,3.9,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,,1.5,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,55,,0.3,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,55,,4.9,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,55,,2,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,64.2,,0.1,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,64.2,,2,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,82.5,,0.4,
+AREA,,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,,0.5,
+BASIC,,V.juncea,VignaJuncea,18.3,,0.7,
+AREA,,V.juncea,VignaJuncea,45.9,,0.3,
+AREA,,V.juncea,VignaJuncea,45.9,,0.3,
+AREA,,V.juncea,VignaJuncea,18.3,,0.7,
+AREA,,V.juncea,VignaJuncea,91.7,,0.5,
+AREA,,V.juncea,VignaJuncea,91.7,,0.5,
+AREA,,V.juncea,VignaJuncea,91.7,,0.5,
+AREA,,V.juncea,VignaJuncea,91.7,,1,
+AREA,,V.juncea,VignaJuncea,137.6,,0.5,
+BASIC,,EleusineCoracana,EleusineCoracana,13.8,,1,
+BASIC,,EleusineCoracana,EleusineCoracana,18.3,,0.7,
+BASIC,,EleusineCoracana,EleusineCoracana,18.3,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,18.3,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,27.5,,2.4,
+BASIC,,EleusineCoracana,EleusineCoracana,27.5,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,27.5,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,27.5,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,36.7,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,45.9,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,47.7,,2,
+BASIC,,EleusineCoracana,EleusineCoracana,183.4,,8,
+AREA,,EleusineCoracana,EleusineCoracana,13.8,,1,
+AREA,,EleusineCoracana,EleusineCoracana,18.3,,0.7,
+AREA,,EleusineCoracana,EleusineCoracana,18.3,,2,
+AREA,,EleusineCoracana,EleusineCoracana,18.3,,2,
+AREA,,EleusineCoracana,EleusineCoracana,27.5,,2.4,
+AREA,,EleusineCoracana,EleusineCoracana,27.5,,2,
+AREA,,EleusineCoracana,EleusineCoracana,36.7,,0.5,
+AREA,,EleusineCoracana,EleusineCoracana,36.7,,1,
+AREA,,EleusineCoracana,EleusineCoracana,45.9,,0.3,
+AREA,,EleusineCoracana,EleusineCoracana,45.9,,0.3,
+AREA,,EleusineCoracana,EleusineCoracana,45.9,,1,
+AREA,,EleusineCoracana,EleusineCoracana,45.9,,1,
+AREA,,EleusineCoracana,EleusineCoracana,47.7,,2,
+AREA,,EleusineCoracana,EleusineCoracana,91.7,,0.5,
+AREA,,EleusineCoracana,EleusineCoracana,91.7,,0.5,
+AREA,,EleusineCoracana,EleusineCoracana,91.7,,0.5,
+AREA,,EleusineCoracana,EleusineCoracana,91.7,,1,
+AREA,,EleusineCoracana,EleusineCoracana,91.7,,2,
+AREA,,EleusineCoracana,EleusineCoracana,137.6,,2,
+AREA,,EleusineCoracana,EleusineCoracana,137.6,,3,
+AREA,,EleusineCoracana,EleusineCoracana,137.6,,0.5,
+AREA,,EleusineCoracana,EleusineCoracana,183.4,,4,
+AREA,,EleusineCoracana,EleusineCoracana,183.4,,8,
+BASIC,,S.bicolar,SorghumBicolar,45.9,,3.9,
+BASIC,,S.bicolar,SorghumBicolar,45.9,,1.5,
+BASIC,,S.bicolar,SorghumBicolar,47.7,,2,
+BASIC,,S.bicolar,SorghumBicolar,55,,4.9,
+BASIC,,S.bicolar,SorghumBicolar,55,,2,
+BASIC,,S.bicolar,SorghumBicolar,64.2,,2,
+BASIC,,S.bicolar,SorghumBicolar,73.4,,2,
+BASIC,,S.bicolar,SorghumBicolar,91.7,,2.5,
+AREA,,S.bicolar,SorghumBicolar,36.7,,0.5,
+AREA,,S.bicolar,SorghumBicolar,36.7,,1,
+AREA,,S.bicolar,SorghumBicolar,45.9,,3.9,
+AREA,,S.bicolar,SorghumBicolar,45.9,,1.5,
+AREA,,S.bicolar,SorghumBicolar,45.9,,1,
+AREA,,S.bicolar,SorghumBicolar,45.9,,1,
+AREA,,S.bicolar,SorghumBicolar,47.7,,2,
+AREA,,S.bicolar,SorghumBicolar,55,,4.9,
+AREA,,S.bicolar,SorghumBicolar,55,,2,
+AREA,,S.bicolar,SorghumBicolar,64.2,,2,
+BASIC,,S.incanum,SolanumIncanum,7.3,,0.5,
+BASIC,,S.incanum,SolanumIncanum,45.9,,3.9,
+BASIC,,S.incanum,SolanumIncanum,45.9,,1.5,
+BASIC,,S.incanum,SolanumIncanum,45.9,,0.8,
+BASIC,,S.incanum,SolanumIncanum,47.7,,2,
+BASIC,,S.incanum,SolanumIncanum,55,,4.9,
+BASIC,,S.incanum,SolanumIncanum,55,,2,
+BASIC,,S.incanum,SolanumIncanum,64.2,,2,
+BASIC,,S.incanum,SolanumIncanum,73.4,,2,
+BASIC,,S.incanum,SolanumIncanum,91.7,,2.5,
+AREA,,S.incanum,SolanumIncanum,7.3,,0.5,
+AREA,,S.incanum,SolanumIncanum,36.7,,0.5,
+AREA,,S.incanum,SolanumIncanum,36.7,,1,
+AREA,,S.incanum,SolanumIncanum,36.7,,0.5,
+AREA,,S.incanum,SolanumIncanum,36.7,,0.3,
+AREA,,S.incanum,SolanumIncanum,45.9,,3.9,
+AREA,,S.incanum,SolanumIncanum,45.9,,1.5,
+AREA,,S.incanum,SolanumIncanum,45.9,,1,
+AREA,,S.incanum,SolanumIncanum,45.9,,1,
+AREA,,S.incanum,SolanumIncanum,45.9,,0.8,
+AREA,,S.incanum,SolanumIncanum,45.9,,0.8,
+AREA,,S.incanum,SolanumIncanum,47.7,,2,
+AREA,,S.incanum,SolanumIncanum,55,,4.9,
+AREA,,S.incanum,SolanumIncanum,55,,2,
+AREA,,S.incanum,SolanumIncanum,64.2,,2,
+AREA,,S.incanum,SolanumIncanum,91.7,,1,
+AREA,,S.incanum,SolanumIncanum,366.8,,0.5,
+AREA,,S.incanum,SolanumIncanum,366.8,,0.5,
+AREA,,S.incanum,SolanumIncanum,412.7,,0.5,
+AREA,,S.incanum,SolanumIncanum,412.7,,0.5,
+BASIC,,E.indica ,EleusineIndica ,7.3,,0.5,
+BASIC,,E.indica ,EleusineIndica ,45.9,,3.9,
+BASIC,,E.indica ,EleusineIndica ,45.9,,1.5,
+BASIC,,E.indica ,EleusineIndica ,45.9,,2,
+BASIC,,E.indica ,EleusineIndica ,45.9,,0.8,
+BASIC,,E.indica ,EleusineIndica ,47.7,,2,
+BASIC,,E.indica ,EleusineIndica ,55,,4.9,
+BASIC,,E.indica ,EleusineIndica ,55,,2,
+BASIC,,E.indica ,EleusineIndica ,64.2,,2,
+BASIC,,E.indica ,EleusineIndica ,73.4,,2,
+BASIC,,E.indica ,EleusineIndica ,91.7,,2.5,
+AREA,,E.indica ,EleusineIndica ,7.3,,0.5,
+AREA,,E.indica ,EleusineIndica ,36.7,,0.5,
+AREA,,E.indica ,EleusineIndica ,36.7,,1,
+AREA,,E.indica ,EleusineIndica ,36.7,,0.5,
+AREA,,E.indica ,EleusineIndica ,36.7,,0.3,
+AREA,,E.indica ,EleusineIndica ,36.7,,0.3,
+AREA,,E.indica ,EleusineIndica ,36.7,,0.3,
+AREA,,E.indica ,EleusineIndica ,36.7,,0.3,
+AREA,,E.indica ,EleusineIndica ,45.9,,3.9,
+AREA,,E.indica ,EleusineIndica ,45.9,,1.5,
+AREA,,E.indica ,EleusineIndica ,45.9,,1,
+AREA,,E.indica ,EleusineIndica ,45.9,,1,
+AREA,,E.indica ,EleusineIndica ,45.9,,0.8,
+AREA,,E.indica ,EleusineIndica ,45.9,,0.8,
+AREA,,E.indica ,EleusineIndica ,45.9,,2,
+AREA,,E.indica ,EleusineIndica ,45.9,,0.3,
+AREA,,E.indica ,EleusineIndica ,47.7,,2,
+AREA,,E.indica ,EleusineIndica ,55,,0.3,
+AREA,,E.indica ,EleusineIndica ,55,,4.9,
+AREA,,E.indica ,EleusineIndica ,55,,2,
+AREA,,E.indica ,EleusineIndica ,64.2,,2,
+AREA,,E.indica ,EleusineIndica ,73.4,,0.3,
+AREA,,E.indica ,EleusineIndica ,73.4,,0.3,
+AREA,,E.indica ,EleusineIndica ,77.9,,0.3,
+AREA,,E.indica ,EleusineIndica ,82.5,,0.3,
+BASIC,,P.purpureum,PennisetumPurpureum,45.9,,2,
+BASIC,,P.purpureum,PennisetumPurpureum,47.7,,2,
+AREA,,P.purpureum,PennisetumPurpureum,36.7,,0.5,
+AREA,,P.purpureum,PennisetumPurpureum,36.7,,1,
+AREA,,P.purpureum,PennisetumPurpureum,36.7,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,36.7,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,36.7,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,45.9,,1,
+AREA,,P.purpureum,PennisetumPurpureum,45.9,,1,
+AREA,,P.purpureum,PennisetumPurpureum,45.9,,2,
+AREA,,P.purpureum,PennisetumPurpureum,45.9,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,47.7,,2,
+AREA,,P.purpureum,PennisetumPurpureum,55,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,73.4,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,73.4,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,77.9,,0.3,
+AREA,,P.purpureum,PennisetumPurpureum,82.5,,0.3,
+AREA,,C.zeyheri,Cucumis Zeyheri,91.7,,1,
+AREA,,C.zeyheri,Cucumis Zeyheri,366.8,,0.5,
+AREA,,C.zeyheri,Cucumis Zeyheri,366.8,,0.5,
+AREA,,C.zeyheri,Cucumis Zeyheri,412.7,,0.5,
+AREA,,C.zeyheri,Cucumis Zeyheri,412.7,,0.5,
+BASIC,,O.longistaminata,OryzaLongistaminata,47.7,,2,
+AREA,,O.longistaminata,OryzaLongistaminata,36.7,,0.5,
+AREA,,O.longistaminata,OryzaLongistaminata,36.7,,1,
+AREA,,O.longistaminata,OryzaLongistaminata,45.9,,1,
+AREA,,O.longistaminata,OryzaLongistaminata,45.9,,1,
+AREA,,O.longistaminata,OryzaLongistaminata,47.7,,2,
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,45.9,0.3,0.3
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,91.8,0.3,0.6
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,137.7,3.9,4.5
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,183.6,0.5,5.0
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,229.5,1.5,6.5
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,45.9,275.4,0.5,7.0
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,55,330.4,0.3,7.3
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,55,385.4,4.9,12.2
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,55,440.4,2,14.2
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,55,495.4,1,15.2
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,64.2,559.6,2,17.2
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,73.4,633.0,2,19.2
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,73.4,706.4,1.5,20.7
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,82.5,788.9,0.4,21.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,82.5,871.4,1.5,22.6
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,91.7,963.1,1.5,24.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,91.7,1054.8,2.5,26.6
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,110,1164.8,0.5,27.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,110,1274.8,1,28.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,1412.4,0.5,28.6
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,1550.0,0.5,29.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,1687.6,0.5,29.6
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,1825.2,2,31.6
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,1962.8,1.5,33.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,137.6,2100.4,1,34.1
+DIVERSITY,VUD,V.dekindtiana,VignaUnguiculataDekindtiana,174.2,2274.6,1,35.1
+DIVERSITY,VJ,V.juncea,VignaJuncea,18.3,18.3,0.7,0.7
+DIVERSITY,VJ,V.juncea,VignaJuncea,45.9,64.2,0.3,1.0
+DIVERSITY,VJ,V.juncea,VignaJuncea,45.9,110.1,0.3,1.3
+DIVERSITY,VJ,V.juncea,VignaJuncea,91.7,201.8,0.5,1.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,91.7,293.5,0.5,2.3
+DIVERSITY,VJ,V.juncea,VignaJuncea,91.7,385.2,1,3.3
+DIVERSITY,VJ,V.juncea,VignaJuncea,137.6,522.8,1.5,4.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,137.6,660.4,1,5.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,137.6,798.0,1,6.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,137.6,935.6,0.5,7.3
+DIVERSITY,VJ,V.juncea,VignaJuncea,165.1,1100.7,1.5,8.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,183.4,1284.1,1,9.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,183.4,1467.5,1,10.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,183.4,1650.9,1,11.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,183.4,1834.3,1,12.8
+DIVERSITY,VJ,V.juncea,VignaJuncea,275.1,2109.4,1.5,14.3
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,13.8,13.8,1,1.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,18.3,32.1,0.7,1.7
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,18.3,50.4,2,3.7
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,18.3,68.7,2,5.7
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,27.5,96.2,2,7.7
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,27.5,123.7,2,9.7
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,36.7,160.4,0.5,10.2
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,36.7,197.1,2,12.2
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,45.9,243.0,0.3,12.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,45.9,288.9,0.3,12.8
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,45.9,334.8,0.8,13.6
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,45.9,380.7,0.8,14.4
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,45.9,426.6,1,15.4
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,45.9,472.5,2,17.4
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,55,527.5,0.3,17.7
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,55,582.5,0.3,18.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,88,670.5,2,20.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,91.7,762.2,0.5,20.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,91.7,853.9,0.5,21.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,91.7,945.6,1,22.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,91.7,1037.3,2,24.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,110,1147.3,0.5,24.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,114.6,1261.9,3,27.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,137.6,1399.5,1.5,29.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,137.6,1537.1,1,30.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,137.6,1674.7,1,31.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,137.6,1812.3,0.5,31.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,137.6,1949.9,3,34.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,165.1,2115.0,1.5,36.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,183.4,2298.4,1,37.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,183.4,2481.8,1,38.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,183.4,2665.2,1,39.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,183.4,2848.6,1,40.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,183.4,3032.0,4,44.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,220.1,3252.1,1,45.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,229.3,3481.4,4,49.0
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,275.1,3756.5,1.5,50.5
+DIVERSITY,EC,EleusineCoracana,EleusineCoracana,321,4077.5,3,53.5
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,36.7,36.7,0.5,0.5
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,36.7,73.4,0.3,0.8
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,36.7,110.1,0.3,1.1
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,36.7,146.8,0.3,1.4
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,36.7,183.5,0.3,1.7
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,45.9,229.4,0.8,2.5
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,45.9,275.3,0.8,3.3
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,45.9,321.2,1,4.3
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,45.9,367.1,0.3,4.6
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,55,422.1,0.3,4.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,55,477.1,0.3,5.2
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,64.2,541.3,0.5,5.7
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,64.2,605.5,0.3,6.0
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,68.8,674.3,0.3,6.3
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,73.4,747.7,0.3,6.6
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,73.4,821.1,0.3,6.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,73.4,894.5,0.5,7.4
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,91.7,986.2,1,8.4
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,110,1096.2,0.5,8.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,114.6,1210.8,3,11.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,183.4,1394.2,2,13.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,183.4,1577.6,2,15.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,183.4,1761.0,1,16.9
+DIVERSITY,PP,P.purpureum,PennisetumPurpureum,220.1,1981.1,1,17.9
+DIVERSITY,SB,S.bicolar,SorghumBicolar,36.7,36.7,0.5,0.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,82.6,3.9,4.4
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,128.5,0.5,4.9
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,174.4,1.5,6.4
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,220.3,0.5,6.9
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,266.2,0.8,7.7
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,312.1,0.8,8.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,45.9,358.0,1,9.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,55,413.0,4.9,14.4
+DIVERSITY,SB,S.bicolar,SorghumBicolar,55,468.0,2,16.4
+DIVERSITY,SB,S.bicolar,SorghumBicolar,55,523.0,1,17.4
+DIVERSITY,SB,S.bicolar,SorghumBicolar,55,578.0,0.3,17.7
+DIVERSITY,SB,S.bicolar,SorghumBicolar,55,633.0,0.3,18.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,64.2,697.2,2,20.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,73.4,770.6,2,22.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,73.4,844.0,1.5,23.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,82.5,926.5,1.5,25.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,88,1014.5,2,27.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,91.7,1106.2,1.5,28.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,91.7,1197.9,2.5,31.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,110,1307.9,1,32.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,110,1417.9,0.5,32.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,114.6,1532.5,3,35.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,137.6,1670.1,2,37.5
+DIVERSITY,SB,S.bicolar,SorghumBicolar,137.6,1807.7,1.5,39.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,137.6,1945.3,1,40.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,174.2,2119.5,1,41.0
+DIVERSITY,SB,S.bicolar,SorghumBicolar,220.1,2339.6,1,42.0
+DIVERSITY,SI,S.incanum,SolanumIncanum,7.3,7.3,0.5,0.5
+DIVERSITY,SI,S.incanum,SolanumIncanum,36.7,44.0,0.5,1.0
+DIVERSITY,SI,S.incanum,SolanumIncanum,36.7,80.7,0.5,1.5
+DIVERSITY,SI,S.incanum,SolanumIncanum,36.7,117.4,0.3,1.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,163.3,3.9,5.7
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,209.2,0.5,6.2
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,255.1,1.5,7.7
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,301.0,0.5,8.2
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,346.9,0.8,9.0
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,392.8,0.8,9.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,438.7,1,10.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,45.9,484.6,0.5,11.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,55,539.6,4.9,16.2
+DIVERSITY,SI,S.incanum,SolanumIncanum,55,594.6,2,18.2
+DIVERSITY,SI,S.incanum,SolanumIncanum,55,649.6,1,19.2
+DIVERSITY,SI,S.incanum,SolanumIncanum,55,704.6,0.3,19.5
+DIVERSITY,SI,S.incanum,SolanumIncanum,55,759.6,0.3,19.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,55,814.6,0.5,20.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,64.2,878.8,2,22.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,73.4,952.2,2,24.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,73.4,1025.6,1.5,25.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,82.5,1108.1,1.5,27.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,88,1196.1,2,29.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,91.7,1287.8,1.5,30.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,91.7,1379.5,2.5,33.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,91.7,1471.2,1,34.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,110,1581.2,1,35.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,110,1691.2,0.5,35.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,114.6,1805.8,3,38.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,137.6,1943.4,2,40.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,137.6,2081.0,1.5,42.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,137.6,2218.6,1,43.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,174.2,2392.8,1,44.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,220.1,2612.9,1,45.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,366.8,2979.7,0.5,45.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,366.8,3346.5,0.5,46.3
+DIVERSITY,SI,S.incanum,SolanumIncanum,412.7,3759.2,0.5,46.8
+DIVERSITY,SI,S.incanum,SolanumIncanum,412.7,4171.9,0.5,47.3
+DIVERSITY,EI,E.indica ,EleusineIndica ,7.3,7.3,0.5,0.5
+DIVERSITY,EI,E.indica ,EleusineIndica ,36.7,44.0,0.5,1.0
+DIVERSITY,EI,E.indica ,EleusineIndica ,36.7,80.7,0.3,1.3
+DIVERSITY,EI,E.indica ,EleusineIndica ,36.7,117.4,0.3,1.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,36.7,154.1,0.3,1.9
+DIVERSITY,EI,E.indica ,EleusineIndica ,36.7,190.8,0.5,2.4
+DIVERSITY,EI,E.indica ,EleusineIndica ,36.7,227.5,0.3,2.7
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,273.4,3.9,6.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,319.3,0.5,7.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,365.2,1.5,8.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,411.1,0.5,9.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,457.0,0.8,9.9
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,502.9,0.8,10.7
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,548.8,1,11.7
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,594.7,0.3,12.0
+DIVERSITY,EI,E.indica ,EleusineIndica ,45.9,640.6,0.5,12.5
+DIVERSITY,EI,E.indica ,EleusineIndica ,55,695.6,4.9,17.4
+DIVERSITY,EI,E.indica ,EleusineIndica ,55,750.6,2,19.4
+DIVERSITY,EI,E.indica ,EleusineIndica ,55,805.6,1,20.4
+DIVERSITY,EI,E.indica ,EleusineIndica ,55,860.6,0.3,20.7
+DIVERSITY,EI,E.indica ,EleusineIndica ,55,915.6,0.3,21.0
+DIVERSITY,EI,E.indica ,EleusineIndica ,55,970.6,0.5,21.5
+DIVERSITY,EI,E.indica ,EleusineIndica ,64.2,1034.8,2,23.5
+DIVERSITY,EI,E.indica ,EleusineIndica ,73.4,1108.2,2,25.5
+DIVERSITY,EI,E.indica ,EleusineIndica ,73.4,1181.6,1.5,27.0
+DIVERSITY,EI,E.indica ,EleusineIndica ,73.4,1255.0,0.3,27.3
+DIVERSITY,EI,E.indica ,EleusineIndica ,73.4,1328.4,0.3,27.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,82.5,1410.9,1.5,29.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,88,1498.9,2,31.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,91.7,1590.6,1.5,32.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,91.7,1682.3,2.5,35.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,91.7,1774.0,1,36.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,110,1884.0,1,37.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,110,1994.0,0.5,37.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,114.6,2108.6,3,40.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,137.6,2246.2,2,42.6
+DIVERSITY,EI,E.indica ,EleusineIndica ,137.6,2383.8,1.5,44.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,137.6,2521.4,1,45.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,174.2,2695.6,1,46.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,183.4,2879.0,2,48.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,183.4,3062.4,2,50.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,183.4,3245.8,1,51.1
+DIVERSITY,EI,E.indica ,EleusineIndica ,220.1,3465.9,1,52.1
+DIVERSITY,CZ,C.zeyheri,Cucumis Zeyheri,91.7,91.7,1,1.0
+DIVERSITY,CZ,C.zeyheri,Cucumis Zeyheri,366.8,458.5,0.5,1.5
+DIVERSITY,CZ,C.zeyheri,Cucumis Zeyheri,366.8,825.3,0.5,2.0
+DIVERSITY,CZ,C.zeyheri,Cucumis Zeyheri,412.7,1238.0,0.5,2.5
+DIVERSITY,CZ,C.zeyheri,Cucumis Zeyheri,412.7,1650.7,0.5,3.0
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,36.7,36.7,0.5,0.5
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,45.9,82.6,0.8,0.8
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,45.9,128.5,0.8,1.6
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,45.9,174.4,1,2.6
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,55,229.4,0.3,2.9
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,55,284.4,0.3,3.2
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,88,372.4,2,5.2
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,110,482.4,0.5,5.7
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,114.6,597.0,3,8.7
+DIVERSITY,OL,O.longistaminata,OryzaLongistaminata,220.1,817.1,1,9.7
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,19 @@
+ID,AMO,GMA,Scinario ,Area_Ha,Farmers,Plots,Communities ,PriceHa_USD,Price_Plot,Cost_USD ,Male,Female,Rank,Objective 
+1,A,No,Low,127,91,256,7,72,36,9118,60,31,0.88,Plots 
+2,A,No,Medium,186,160,389,12,97,46,18054,98,62,0.87,Plots 
+3,A,No,High ,312,188,452,14,92,60,26965,115,73,0.93,Plots 
+1,A,Yes,Low,70,108,189,5,132,46,8637,84,24,0.9,Farmers
+2,A,Yes,Medium,95,157,220,8,194,79,17422,113,44,0.89,Area
+3,A,Yes,High ,100,165,235,8,280,113,26592,117,48,0.91,Area
+1,B,No,Low,97,56,120,4,98,75,8977,33,23,0.85,Area
+2,B,No,Medium,168,110,239,7,114,76,18182,71,39,0.88,Area
+3,B,No,High ,196,164,326,11,144,82,26676,104,60,0.93,Farmers/Plots
+1,B,Yes,Low,63,75,153,3,142,58,8826,57,18,0.85,Farmers
+2,B,Yes,Medium,82,114,168,5,183,104,17473,76,38,0.88,Plots/Communities
+3,B,Yes,High ,91,143,198,7,239,110,21811,99,44,0.94,Area/Farmers
+1,c,No,Low,44,927,n/a,7,88,,3714,n/a,n/a,0.84,Communities
+2,c,No,Medium,48,1122,n/a,10,179,,8115,n/a,n/a,0.81,Communities
+3,c,No,High ,63,1202,n/a,12,221,,13159,n/a,n/a,0.94,Communities / Farmers 
+1,c,Yes,Low,64,116,n/a,4,63,,3989,n/a,n/a,0.91,Area / Communities / Farmers 
+2,c,Yes,Medium,73,661,n/a,3,123,,8904,n/a,n/a,0.91,Farmer
+3,c,Yes,High ,88,170,n/a,4,166,,13205,n/a,n/a,0.89,Farmer

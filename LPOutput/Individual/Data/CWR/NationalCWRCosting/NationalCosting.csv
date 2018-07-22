@@ -1,0 +1,11 @@
+Region,Cost,Estimate
+1 (EP),26640,Upper bound
+2 (NP),20873.25,Upper bound
+3 (SP),18648,Upper bound
+4 (CLP),39960,Upper bound
+5 (WP),5566.2,Upper bound
+1 (EP),15057.3913,Lower bound 
+2 (NP),7492.961538,Lower bound 
+3 (SP),10540.17391,Lower bound 
+4 (CLP),22586.08696,Lower bound 
+5 (WP),1998.123077,Lower bound 
